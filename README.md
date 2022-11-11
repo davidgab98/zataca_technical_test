@@ -1,7 +1,7 @@
 # Zataca Technical Test
 Repositorio para prueba técnica de Flutter en Zataca.
 
-## Aspectos a mejorar
+## Posibles Mejoras
 A continuación se nombran algunas mejoras que se podrían añadir al proyecto para aportarle una mayor robustez:
 - "Internacionalizar" la aplicación: Añadir un paquete de idiomas como flutter_localization o easy_localization para poder albergar varios idiomas. De esta manera evitariamos también tener los textos hardcodeados como ocurre actualmente. 
 - Emplear DTOs (Data Transfer Object) para establecer una mayor separación entre la capa de dominio y la capa de datos.
